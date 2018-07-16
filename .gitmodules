@@ -1,0 +1,9 @@
+[submodule "DemoModuleA"]
+	path = DemoModuleA
+	url = https://github.com/DancewithPeng/DemoModuleA.git
+[submodule "DemoModuleB"]
+	path = DemoModuleB
+	url = https://github.com/DancewithPeng/DemoModuleB.git
+[submodule "DemoModuleC"]
+	path = DemoModuleC
+	url = https://github.com/DancewithPeng/DemoModuleC.git
